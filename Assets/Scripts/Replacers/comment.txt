@@ -1,0 +1,1 @@
+These are replacer scripts that can be attached to placeholder objects ("spawners") to automatically replace those with parcels at runtime.

@@ -1,0 +1,4 @@
+Use this shader (if you wish, it's literally just a default Unity shader with one line of code added) with MaterialPropertyBlocks to change the color of a material individually for multiple objects that share it. This article explains how it's done:
+http://thomasmountainborn.com/2016/05/25/materialpropertyblocks/
+
+This is currently of limited usefulness as this method will color the entire mesh of the object, so it's not very useful on buildings that are made up of a single mesh, which most of ours are.
